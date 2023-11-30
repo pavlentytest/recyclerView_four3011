@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Сырная",
+    "price": 300,
+    "image": "https://ruhqphdevback01.pizzahut.ru/storage/115409/conversions/cSGRbQ6w70sMmSdYGwNLWCCu1A5o1B3urlUvPKea-optimize.jpg"
+  },
+  {
+    "name": "Пепперони",
+    "price": 349,
+    "image": "https://ruhqphdevback01.pizzahut.ru/storage/115411/conversions/UTgWbNbR2H55e8sKZTOHsans9hmcQIWNxAjM5sVI-optimize.jpg"
+  },
+  {
+    "name": "Мортаделло",
+    "price": 601,
+    "image": "https://ruhqphdevback01.pizzahut.ru/storage/115409/conversions/cSGRbQ6w70sMmSdYGwNLWCCu1A5o1B3urlUvPKea-optimize.jpg"
+  },
+  {
+    "name": "Двойной цыпленок",
+    "price": 301,
+    "image": "https://ruhqphdevback01.pizzahut.ru/storage/115409/conversions/cSGRbQ6w70sMmSdYGwNLWCCu1A5o1B3urlUvPKea-optimize.jpg"
+  },
+  {
+    "name": "4 сыра",
+    "price": 500,
+    "image": "https://ruhqphdevback01.pizzahut.ru/storage/115409/conversions/cSGRbQ6w70sMmSdYGwNLWCCu1A5o1B3urlUvPKea-optimize.jpg"
+  },
+  {
+    "name": "Песто",
+    "price": 452,
+    "image": "https://ruhqphdevback01.pizzahut.ru/storage/115409/conversions/cSGRbQ6w70sMmSdYGwNLWCCu1A5o1B3urlUvPKea-optimize.jpg"
+  },
+  {
+    "name": "Карбонара",
+    "price": 600,
+    "image": "https://ruhqphdevback01.pizzahut.ru/storage/115409/conversions/cSGRbQ6w70sMmSdYGwNLWCCu1A5o1B3urlUvPKea-optimize.jpg"
+  },
+  {
+    "name": "Аррива",
+    "price": 828,
+    "image": "https://ruhqphdevback01.pizzahut.ru/storage/115409/conversions/cSGRbQ6w70sMmSdYGwNLWCCu1A5o1B3urlUvPKea-optimize.jpg"
+  },
+  {
+    "name": "Гавайская",
+    "price": 949,
+    "image": "https://ruhqphdevback01.pizzahut.ru/storage/115409/conversions/cSGRbQ6w70sMmSdYGwNLWCCu1A5o1B3urlUvPKea-optimize.jpg"
+  },
+  {
+    "name": "Диабло",
+    "price": 539,
+    "image": "https://ruhqphdevback01.pizzahut.ru/storage/115409/conversions/cSGRbQ6w70sMmSdYGwNLWCCu1A5o1B3urlUvPKea-optimize.jpg"
+  }
+]
